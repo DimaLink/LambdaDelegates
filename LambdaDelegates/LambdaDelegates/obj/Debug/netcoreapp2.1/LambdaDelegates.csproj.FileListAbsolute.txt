@@ -1,0 +1,11 @@
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\bin\Debug\netcoreapp2.1\LambdaDelegates.deps.json
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\bin\Debug\netcoreapp2.1\LambdaDelegates.runtimeconfig.json
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\bin\Debug\netcoreapp2.1\LambdaDelegates.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\bin\Debug\netcoreapp2.1\LambdaDelegates.dll
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\bin\Debug\netcoreapp2.1\LambdaDelegates.pdb
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\obj\Debug\netcoreapp2.1\LambdaDelegates.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\obj\Debug\netcoreapp2.1\LambdaDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\obj\Debug\netcoreapp2.1\LambdaDelegates.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\obj\Debug\netcoreapp2.1\LambdaDelegates.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\obj\Debug\netcoreapp2.1\LambdaDelegates.dll
+C:\Users\Dima\Desktop\Development\Projects\VisualStudioProjects\ZGames\LambdaDelegates\LambdaDelegates\obj\Debug\netcoreapp2.1\LambdaDelegates.pdb
